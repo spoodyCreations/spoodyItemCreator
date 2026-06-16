@@ -10,6 +10,7 @@ Open the panel, type in a name, label, weight and image link, hit **Apply** — 
     <td><img src="https://r2.fivemanage.com/CWDuI3yLS4av0OWnTLNNl/invmanager_1.png" alt="spoodyItemCreator – browsing items" /></td>
   </tr>
 </table>
+
 ---
 ## Features
 - Add, edit and delete items from a clean panel instead of a text editor
