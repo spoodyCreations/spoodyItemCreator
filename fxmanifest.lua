@@ -2,7 +2,7 @@ fx_version 'cerulean'
 game 'gta5'
 lua54 'yes'
 
-author 'Spoody & garmenting'
+author 'Spoody & EugeneCFX'
 description 'Item Creator — Admin UI for registering custom items into ox_inventory'
 version '1.0.0'
 
