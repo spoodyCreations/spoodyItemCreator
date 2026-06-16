@@ -4,8 +4,12 @@ Create custom [ox_inventory](https://github.com/overextended/ox_inventory) items
 Open the panel, type in a name, label, weight and image link, hit **Apply** — and the item is registered into ox_inventory and pushed live to everyone already online. Built with React, Tailwind and shadcn/ui.
 ---
 ## Preview
-![spoodyItemCreator – item panel](https://r2.fivemanage.com/CWDuI3yLS4av0OWnTLNNl/invmanager_2.png)
-![spoodyItemCreator – browsing items](https://r2.fivemanage.com/CWDuI3yLS4av0OWnTLNNl/invmanager_1.png)
+<table>
+  <tr>
+    <td><img src="https://r2.fivemanage.com/CWDuI3yLS4av0OWnTLNNl/invmanager_2.png" alt="spoodyItemCreator – item panel" /></td>
+    <td><img src="https://r2.fivemanage.com/CWDuI3yLS4av0OWnTLNNl/invmanager_1.png" alt="spoodyItemCreator – browsing items" /></td>
+  </tr>
+</table>
 ---
 ## Features
 - Add, edit and delete items from a clean panel instead of a text editor
