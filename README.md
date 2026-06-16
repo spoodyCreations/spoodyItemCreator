@@ -1,5 +1,5 @@
 # spoodyItemCreator
-Create custom [ox_inventory](https://github.com/overextended/ox_inventory) items from inside the game — no editing `items.lua` by hand, no full server restarts just to add one item.
+Create custom [ox_inventory](https://github.com/overextended/ox_inventory) items from inside the game — no editing `items.lua` by hand, no full server restarts just to add one item, syncs to all players **instantly**.
 
 Open the panel, type in a name, label, weight and image link, hit **Apply** — and the item is registered into ox_inventory and pushed live to everyone already online. Built with React, Tailwind and shadcn/ui.
 ---
