@@ -75,16 +75,12 @@ In **All ox_inventory Items** you can search and browse everything registered, c
 ---
 ## Updating ox_inventory
 Updating ox wipes its folder, so you'll need to **re-copy the two bridge files** into it and **re-add the two `fxmanifest.lua` lines** (install steps 2 and 3 again — `/itemcreator install` reminds you exactly what). Your items are remembered by spoodyItemCreator, so a single **Apply** brings every one of them back.
----
-## For developers
-How the bridge actually works is written up in [README.dev.md](README.dev.md).
----
+
 ## Paid & Premium Resources
 Need help or want more premium escrowed scripts? Check out the store:
 
 <a href="https://spoody.store">
-  <img src="YOUR_TEBEX_IMAGE_URL" alt="Tebex Store" width="400" />
+  <img src="https://r2.fivemanage.com/CWDuI3yLS4av0OWnTLNNl/tebex_banner.png" alt="Tebex Store" width="400" />
 </a>
-<a href="https://discord.gg/spoody">
-  <img src="YOUR_DISCORD_IMAGE_URL" alt="Discord" width="400" />
-</a>
+
+[Discord Invite](https://r2.fivemanage.com/CWDuI3yLS4av0OWnTLNNl/tebex_banner.png)
