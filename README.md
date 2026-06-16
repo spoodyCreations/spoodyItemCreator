@@ -4,7 +4,7 @@ Create custom [ox_inventory](https://github.com/overextended/ox_inventory) items
 Open the panel, type in a name, label, weight and image link, hit **Apply** — and the item is registered into ox_inventory and pushed live to everyone already online. Built with React, Tailwind and shadcn/ui.
 ---
 ## Preview
-![Streamable Link](https://streamable.com/7lrm66)
+<iframe src="https://streamable.com/e/7lrm66" width="100%" height="100%" frameborder="0" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 
 <table>
   <tr>
