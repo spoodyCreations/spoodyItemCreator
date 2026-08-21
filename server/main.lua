@@ -242,6 +242,7 @@ lib.addCommand(Config.Command, {
         return installBridge(source)
     end
 
+    Deprecation.notify(source)
     TriggerClientEvent('item-creator:open', source, store)
 end)
 

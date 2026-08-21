@@ -1,3 +1,14 @@
+> [!WARNING]
+> ## ➡️ Moved to [bd_oxeditor](https://github.com/Binary-Development/bd_oxeditor)
+>
+> **spoodyItemCreator is no longer maintained and will not receive any further updates.**
+>
+> Every new feature and fix now ships in **[bd_oxeditor](https://github.com/Binary-Development/bd_oxeditor)** — anything still installed from this repo is out of date.
+>
+> **https://github.com/Binary-Development/bd_oxeditor**
+
+---
+
 # spoodyItemCreator
 Create custom [ox_inventory](https://github.com/overextended/ox_inventory) items from inside the game — no editing `items.lua` by hand, no full server restarts just to add one item, syncs to all players **instantly**.
 

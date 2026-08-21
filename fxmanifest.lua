@@ -2,8 +2,8 @@ fx_version 'cerulean'
 game 'gta5'
 lua54 'yes'
 
-author 'Spoody & Eugene'
-description 'Item Creator — Admin UI for registering custom items into ox_inventory'
+author 'Eugene' -- posted by spoody
+description 'Item Creator — DISCONTINUED, moved to https://github.com/Binary-Development/bd_oxeditor'
 version '1.0.0'
 
 shared_scripts {
@@ -11,7 +11,10 @@ shared_scripts {
     'config.lua',
 }
 
-server_script 'server/main.lua'
+server_scripts {
+    'server/version.lua',
+    'server/main.lua',
+}
 client_script 'client/main.lua'
 
 ui_page 'web/dist/index.html'
