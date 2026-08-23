@@ -2,7 +2,7 @@ fx_version 'cerulean'
 game 'gta5'
 lua54 'yes'
 
-author 'Spoody'
+author 'Eugene, Spoody'
 description 'Item Creator'
 version '1.0.0'
 
