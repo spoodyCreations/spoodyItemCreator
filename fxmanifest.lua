@@ -2,8 +2,8 @@ fx_version 'cerulean'
 game 'gta5'
 lua54 'yes'
 
-author 'Eugene' -- posted by spoody
-description 'Item Creator — DISCONTINUED, moved to https://github.com/Binary-Development/bd_oxeditor'
+author 'Spoody' -- posted by spoody
+description 'Item Creator'
 version '1.0.0'
 
 shared_scripts {
